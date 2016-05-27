@@ -1,0 +1,25 @@
+{
+  "name": "global-background",
+  "author": {
+    "name": "Simon Xia",
+    "email": "simonxia.OMG@gmail.com"
+  },
+  "main": "./lib/global-background",
+  "version": "0.0.1",
+  "description": "A simple package that sets the Atom's custom global-background image",
+  "keywords": [
+      "background",
+      "image"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon-xia/atom-global-background.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}

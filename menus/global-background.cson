@@ -1,0 +1,19 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'global-background'
+      'submenu': [
+        {
+          'label': 'start-refresh'
+          'command': 'global-background:start-refresh'
+        },
+        {
+          'label': 'stop-refresh'
+          'command': 'global-background:stop-refresh'
+        }
+      ]
+    ]
+  }
+]
