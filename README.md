@@ -2,7 +2,7 @@
 
 A simple package that sets the [Atom](https://atom.io/)'s custom global-background image
 
-![Atom - Global Background](http://cuntuku.com/images/2016/05/29/demo.gif)
+![Atom - Global Background](http://7s1t7r.com1.z0.glb.clouddn.com/demo.gif)
 
 ## Features
 
