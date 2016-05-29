@@ -1,6 +1,6 @@
 # Atom - Global Background 
 
-A simple package that sets the ![Atom](https://atom.io/)'s custom global-background image
+A simple package that sets the [Atom](https://atom.io/)'s custom global-background image
 
 ![Atom - Global Background](./demo/demo.gif)
 
