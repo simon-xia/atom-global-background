@@ -5,11 +5,11 @@
     "email": "simonxia.OMG@gmail.com"
   },
   "main": "./lib/global-background",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple package that sets the Atom's custom global-background image",
   "keywords": [
-      "background",
-      "image"
+    "background",
+    "image"
   ],
   "repository": {
     "type": "git",
