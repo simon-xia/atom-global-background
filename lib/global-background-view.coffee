@@ -15,7 +15,6 @@ class GlobalBackgroundView
     @imagePathsSource = []
     
     source =  @getConfig "imageSource.source"
-    #source =  atom.config.get("global-background.imageSource.source") 
     @isCustom = if source  is "Custom Image Source" then true else false 
     
     if @isCustom
