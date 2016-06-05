@@ -10,8 +10,6 @@ module.exports = GlobalBackground =
   activate: (state) ->
     @globalBackgroundView = new GlobalBackgroundView(state.globalBackgroundViewState)
     document.body.appendChild @globalBackgroundView.getElement()
-
-    console.log @globalBackgroundView
     
     @subscriptions = new CompositeDisposable
     @subscriptions.add atom.commands.add 'atom-workspace', 'global-background:start-refresh': @globalBackgroundView.startRefresh
