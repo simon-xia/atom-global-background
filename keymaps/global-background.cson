@@ -10,4 +10,4 @@
 
 'atom-workspace':
   'ctrl-alt-g': 'global-background:stop-refresh'
-  'ctrl-alt-g': 'global-background:start-refresh'
+  'ctrl-alt-b': 'global-background:start-refresh'
